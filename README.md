@@ -2,9 +2,14 @@
 
 This project is a **complete farm management dashboard** that allows for full control and monitoring of daily operations in a livestock farm. It provides distinct user roles and tailored access for:
 
-- 🧑‍💼 **Admin** – Full control over users and the entire system.  
-- 👨‍🌾 **Farm Manager** – Manages animals, workers, and farm activities.  
-- 🧑‍🔧 **Farm Staff** – Limited access to daily tasks and operations.
+✅ Web Dashboard
+🔗 https://farm-expert-next.vercel.app/en
+This is a website linked to the API, providing a full dashboard for managing the smart farm.
+
+👥 User Roles:
+🧑‍💼 Admin – Full control over users and the entire system.
+👨‍🌾 Farm Manager – Manages animals, workers, and farm activities.
+🧑‍🔧 Farm Staff – Limited access to daily tasks and operations.
 
 ---
 
